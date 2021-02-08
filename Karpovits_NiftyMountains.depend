@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1601947554 source:c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\main.cpp
+	"declarations.h"
+
+1600704442 c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\apmatrix.h
+	"apvector.h"
+	"apmatrix.cpp"
+
+1600704450 c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\apvector.h
+	"apvector.cpp"
+
+1600704463 c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1600704448 c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\apmatrix.cpp
+
+1601947554 c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\declarations.h
+	<iostream>
+	<vector>
+	<math.h>
+	"apmatrix.h"
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+
+1601947115 source:c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\allegro.cpp
+	"declarations.h"
+
+1601947554 source:c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\drawmap.cpp
+	"declarations.h"
+
+1601924297 source:c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\algorithms.cpp
+	"declarations.h"
+
+1601947554 source:c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\floyd.cpp
+	"declarations.h"
+
+1601877917 source:c:\users\eric\documents\github\nifty-mountains-20-21-erickarpovits\karpovits_niftymountains\analysis.cpp
+	"declarations.h"
+
