@@ -1,8 +1,7 @@
 # Nifty-Mountains-Project - Eric Karpovits
 
 ![GitHub version](https://img.shields.io/badge/version-2.1-brightgreen) ![Travis Status](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-![Maintaner](https://img.shields.io/badge/developer-EricKarpovits-blue)
-
+![Maintaner](https://img.shields.io/badge/developer-EricKarpovits-blue)![C++]https://img.shields.io/badge/Made%20with-C++-1f425f.svg
 The goal of the project was to find the best cumulative elevation change given a topographic data set of a mountain. 
 
 This program reads in a set of topographic mountain elevation data into a 2D array. Then calculates the best lowest-elevation-change path from West-to-East using various algorithms. The program also draws the actual mountain given the data into a 2D map using monochrome or interpolated colours and visualizes various paths through the mountains. This program will also return various total elevation changes given different "best" paths across the mountain and provide path results, a meaningful analysis, and insightful statistics, such as efficiency metrics.
