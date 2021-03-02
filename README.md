@@ -1,6 +1,7 @@
 # Nifty-Mountains-Project - Eric Karpovits
+
 <p align="center">
-![Maintaner](https://img.shields.io/badge/developer-EricKarpovits-blue?style=flat-square&logo=github) ![GitHub version](https://img.shields.io/badge/version-2.1-brightgreen?style=flat-square) ![Travis Status](https://img.shields.io/badge/build-passed-brightgreen?style=flat-square) ![C++](https://img.shields.io/badge/Made%20with-C++-1f425f.svg?style=flat-square)
+  <img src="https://img.shields.io/badge/developer-EricKarpovits-blue?style=flat-square&logo=github"> <img src="https://img.shields.io/badge/version-2.1-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/build-passed-brightgreen?style=flat-square" !<img src="https://img.shields.io/badge/Made%20with-C++-1f425f.svg?style=flat-square"
 </p>
 The goal of the project was to find the best cumulative elevation change given a topographic data set of a mountain. 
 
