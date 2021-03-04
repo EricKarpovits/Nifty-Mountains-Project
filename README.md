@@ -1,4 +1,5 @@
 # Nifty-Mountains-Project - [Eric Karpovits](https://github.com/EricKarpovits)
+
 <p align="center">
   <a href="https://github.com/EricKarpovits/">
          <img src="https://img.shields.io/badge/developer-EricKarpovits-blue?style=flat-square&logo=github">
